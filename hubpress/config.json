@@ -1,16 +1,1 @@
-{
-    "meta": {
-        "username": "DimShadoWWW",
-        "repositoryName": "blog",
-        "branch": "gh-pages"
-    },
-    "site": {
-        "url": "http://DimShadoWWW.github.io/blog",
-        "postsPerPage": 10
-    },
-    "socialnetwork": {},
-    "theme": {
-        "name": "Roon",
-        "url": "http://DimShadoWWW.github.io/blog/themes/Roon"
-    }
-}
+{"meta":{"username":"DimShadoWWW","repositoryName":"blog","branch":"gh-pages"},"site":{"postsPerPage":10,"url":"http://DimShadoWWW.github.io/blog"},"socialnetwork":{},"theme":{"name":"Roon","url":"http://DimShadoWWW.github.io/blog/themes/Roon"}}
